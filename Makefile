@@ -1,6 +1,9 @@
 all: main.c
 	gcc main.c -o inc
 
+clean:
+	rm *.o *.out inc
+
 run: all
 	./inc
 
