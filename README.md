@@ -1,2 +1,2 @@
 # brainfuck-emulator
-a brainfuck emulator created in the middle of the night 
+A brainfuck emulator created in the middle of the night 
